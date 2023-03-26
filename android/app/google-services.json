@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162785584783",
+    "project_id": "visionmeet-10ba0",
+    "storage_bucket": "visionmeet-10ba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162785584783:android:e66b836461259b09e8f2fa",
+        "android_client_info": {
+          "package_name": "com.example.visionmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162785584783-sjql6tqgjodv85c6njm5mh07u68im8rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMUmTWpEbmJPhQ0SjFp4M_dcXXwhRHO8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162785584783-sjql6tqgjodv85c6njm5mh07u68im8rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
